@@ -20,18 +20,6 @@ Tools & Technologies: Git, GitHub, VS Code
 
 Currently Learning: Node.js, Data Science, Machine Learning, SQL
 
-🌱 Current Goals
-
-Build scalable and responsive web applications.
-
-Contribute to open-source projects.
-
-Strengthen my knowledge of Data Science and AI.
-
-Learn full-stack development with modern technologies.
-
-Continuously improve problem-solving and software engineering skills.
-
 I believe that technology is a powerful tool for innovation, and I'm always eager to collaborate, learn from the developer community, and take on new challenges. If you're interested in web development, data science, or open-source collaboration, feel free to connect or explore my repositories.
 
 * 🌍  I'm based in Pakistan
